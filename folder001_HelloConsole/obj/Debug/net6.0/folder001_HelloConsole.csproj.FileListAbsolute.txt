@@ -1,0 +1,15 @@
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/bin/Debug/net6.0/folder001_HelloConsole
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/bin/Debug/net6.0/folder001_HelloConsole.deps.json
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/bin/Debug/net6.0/folder001_HelloConsole.runtimeconfig.json
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/bin/Debug/net6.0/folder001_HelloConsole.dll
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/bin/Debug/net6.0/folder001_HelloConsole.pdb
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/obj/Debug/net6.0/folder001_HelloConsole.csproj.AssemblyReference.cache
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/obj/Debug/net6.0/folder001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/obj/Debug/net6.0/folder001_HelloConsole.AssemblyInfoInputs.cache
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/obj/Debug/net6.0/folder001_HelloConsole.AssemblyInfo.cs
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/obj/Debug/net6.0/folder001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/obj/Debug/net6.0/folder001_HelloConsole.dll
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/obj/Debug/net6.0/refint/folder001_HelloConsole.dll
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/obj/Debug/net6.0/folder001_HelloConsole.pdb
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/obj/Debug/net6.0/folder001_HelloConsole.genruntimeconfig.cache
+/Users/aleksejgvozdev/Desktop/work in C#/folder001_HelloConsole/obj/Debug/net6.0/ref/folder001_HelloConsole.dll
